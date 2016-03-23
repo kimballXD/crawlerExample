@@ -3,7 +3,7 @@
 Created on Sat Feb 27 22:58:25 2016
     Crawling the member list of Taiwan Foundry Association
     (http://www.foundry.org.tw:8080/institute/')
-    Using Requests package with post method. Parsing page with BeautifulSoup pagekage.
+    Using Requests package with post method. Parsing page with BeautifulSoup package.
     Python version: built from Anaconda 2.
 @author: Wu
 """

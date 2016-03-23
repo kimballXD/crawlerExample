@@ -3,7 +3,7 @@
 Created on Fri Feb 26 09:59:16 2016
     Crawling the member list of Taiwan  Metal Indsutry Association
     (http://www.trmsa.org.tw/Member.aspx)
-    Using Selenium package to request page. Parsing page with Selenium and BeautifulSoup pagekage.
+    Using Selenium package to request page. Parsing page with Selenium and BeautifulSoup package.
     Python version: built from Anaconda 2.
 @author: Wu
 """
