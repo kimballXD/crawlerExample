@@ -1,4 +1,5 @@
-# crawlerExample
-  These are two crawler to get specific information of the members of Taiwan Foundry Association(foundry.py) and Taiwan Metal Product Association.
-  
-  Arthor: Chun-Sheng Wu. The generated data is for academic use.
+# Crawler Example
+  Here are two crawler to get specific information of the members of Taiwan Foundry Association(foundry.py) and Taiwan Metal Product Association(metal.py).
+  The generated data is for academic use.
+
+  Arthor: Chun-Sheng Wu. 
