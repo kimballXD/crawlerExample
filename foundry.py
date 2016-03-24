@@ -109,8 +109,7 @@ def main(filePath, test):
                           'productType':productType,
                           'source':url,
                           'enName':rows[4].text.strip()}
-#                sleep=random.sample([0,1],1)
-#                time.sleep(sleep[0])
+
     #%%
     data=pd.DataFrame(dataDict).T
     data['NGOname']=u'台灣鑄造學會'
